@@ -50,7 +50,7 @@
   - 跟踪器选择
   - 开始/停止/重置按钮
 
-![系统界面](path/to/interface_screenshot.png)
+![系统界面](demo/界面.png)
 
 ### 4.2 操作流程
 1. **选择视频源**：
@@ -71,9 +71,9 @@
 ### 5.1 跟踪效果展示
 不同场景下的跟踪效果：
 - **RGB跟踪**：
-  ![跟踪](path/to/pedestrian_tracking.jpg)
+  ![跟踪](demo/tracking1.png)
 - **T跟踪**：
-  ![跟踪](path/to/vehicle_tracking.jpg)
+  ![跟踪](demo/tracking2.png)
 
 ### 5.2 数据集
 本项目使用LasHeR数据集{https://github.com/BUGPLEASEOUT/LasHeR} 进行测试：
@@ -93,7 +93,7 @@
 		├── init.txt
         └── visible.txt
      ```
-项目中输入只支持视频文件，需要将连续图片转为视频
+   项目中输入只支持视频文件，需要将连续图片转为视频
 ---
 
 ## 总结与展望
