@@ -83,14 +83,14 @@
    - 数据结构示例：
      ```e
      sequence/
-	 	├── visible
+	 ├── visible
         	├── v0001.jpg
         	├── v0002.jpg
-	 	├── infrared
+	 ├── infrared
         	├── i0001.jpg
         	├── i0002.jpg
-		├── infrared.txt
-		├── init.txt
+	├── infrared.txt
+	├── init.txt
         └── visible.txt
      ```
    项目中输入只支持视频文件，需要将连续图片转为视频
