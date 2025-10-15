@@ -22,7 +22,7 @@
 - 基于Transformer的方法
 
 本项目采用基于Siamese+Transformer的方法，使用PromptVT
-{https://github.com/faicaiwawa/PromptVT} 作为核心跟踪算法。
+{https://github.com/faicaiwawa/PromptVT } 作为核心跟踪算法。
 
 ---
 
