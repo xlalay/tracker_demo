@@ -36,7 +36,7 @@
 4. **结果展示模块**
 
 ### 3.2 核心算法
-使用PromptVT作为核心跟踪算法，详情见{https://github.com/faicaiwawa/PromptVT}
+使用PromptVT作为核心跟踪算法，详情见{https://github.com/faicaiwawa/PromptVT }
 
 ---
 
@@ -76,7 +76,7 @@
   ![跟踪](demo/tracking2.png)
 
 ### 5.2 数据集
-本项目使用LasHeR数据集{https://github.com/BUGPLEASEOUT/LasHeR} 进行测试：
+本项目使用LasHeR数据集{https://github.com/BUGPLEASEOUT/LasHeR } 进行测试：
 1. **LasHer数据集**
    - 1224个视频序列
    - 主要包含：车辆、行人、船只等目标
